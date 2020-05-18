@@ -4,7 +4,7 @@
 <div class="showCardPage">
     <div class="container">
         <div class="show_group">
-            <label for="card_content">タイトル</label>
+            <label for="card_content">タイトル名</label>
             <h2 class="card_title">{{$card->title}}</h2>
         </div>
         <div class="show_group">
