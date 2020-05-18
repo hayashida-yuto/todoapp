@@ -1,0 +1,29 @@
+.showCardPage {
+  margin-top: 10vh;
+}
+.showCardPage .show-group {
+  max-width: 500px;
+  margin: 0 auto 1rem;
+}
+.showCardPage .show_group {
+  margin-top: 30px;
+}
+.showCardPage .card_title {
+  border-bottom: solid 3px #ddd;
+}
+.showCardPage .editBtn {
+  padding: 12px;
+  width: 200px;
+  border-radius: 21px;
+  background: #026aa7;
+  color: #fff;
+  text-align: center;
+  border: none;
+  margin-top: 20px;
+  opacity: 1;
+  transition: opacity 0.5s;
+  cursor: pointer;
+}
+.showCardPage .editBtn:hover {
+  opacity: 0.7;
+}
